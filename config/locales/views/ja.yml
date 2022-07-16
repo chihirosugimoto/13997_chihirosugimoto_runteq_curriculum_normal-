@@ -11,15 +11,15 @@ ja:
       title: 'ユーザー登録'
       to_login_page: 'ログインページへ'
   user_sessions:
+    new:
+      title: 'ログイン'
+      to_register_page: '登録ページへ'
+      password_forget: 'パスワードをお忘れの方はこちら'
     create: 
       success: 'ログインしました'
       fail: 'ログインに失敗しました'
     destroy: 
       success: 'ログアウトしました'
-    new:
-      title: 'ログイン'
-      to_register_page: '登録ページへ'
-      password_forget: 'パスワードをお忘れの方はこちら'
   boards:
     index:
       title: '掲示板一覧'
